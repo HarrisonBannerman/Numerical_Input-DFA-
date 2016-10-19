@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476579971 source:c:\users\harrison bannerman\google drive\projects\c++\numerical_input(dfa)\main.cpp
+	<iostream>
+	<fstream>
+
